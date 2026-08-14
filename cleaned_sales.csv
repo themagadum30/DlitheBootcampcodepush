@@ -1,0 +1,9 @@
+Order_ID,Product,Category,Quantity,Price,Region,Total_Amount
+1001,Laptop,Electronics,2,50000,North,100000
+1002,Mobile,Electronics,3,20000,South,60000
+1003,Laptop,Electronics,1,50000,North,50000
+1004,Headphones,Accessories,5,2000,East,10000
+1005,Mobile,Electronics,2,20000,West,40000
+1006,Laptop,Electronics,1,50000,South,50000
+1007,Headphones,Accessories,4,2000,East,8000
+1008,Mobile,Electronics,3,20000,West,60000
