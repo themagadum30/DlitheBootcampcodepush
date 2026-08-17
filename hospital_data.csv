@@ -1,0 +1,1006 @@
+Patient_ID,Name,Age,Gender,Department,Treatment_Cost,Outcome,Admission_Days
+10001,Patient_1,69.0,Male,General Medicine,54571.0,Recovered,6
+10002,Patient_2,90.0,Female,Pediatrics,46669.0,Recovered,6
+10003,Patient_3,62.0,Female,Orthopedics,98628.0,Recovered,16
+10004,Patient_4,66.0,Female,Pediatrics,37979.0,Under Treatment,4
+10005,Patient_5,64.0,Male,Pediatrics,291880.0,Recovered,11
+10006,Patient_6,70.0,Female,Neurology,91839.0,Recovered,9
+10007,Patient_7,63.0,Female,Orthopedics,59764.0,Recovered,3
+10008,Patient_8,73.0,Female,Orthopedics,105392.0,Recovered,19
+10009,Patient_9,33.0,Male,Orthopedics,72981.0,Recovered,8
+10010,Patient_10,41.0,Male,Pediatrics,34678.0,Recovered,5
+10011,Patient_11,89.0,Female,General Medicine,32368.0,Recovered,4
+10012,Patient_12,48.0,Male,Orthopedics,71899.0,Critical,6
+10013,Patient_13,13.0,Female,Oncology,90471.0,Under Treatment,2
+10014,Patient_14,73.0,Female,Pediatrics,93116.0,Recovered,20
+10015,Patient_15,77.0,Male,Neurology,97925.0,Deceased,11
+10016,Patient_16,31.0,Female,General Medicine,29702.0,Under Treatment,4
+10017,Patient_17,75.0,Male,Oncology,136713.0,Critical,15
+10018,Patient_18,68.0,Male,Oncology,107126.0,Recovered,6
+10019,Patient_19,4.0,Female,Neurology,89791.0,Recovered,17
+10020,Patient_20,19.0,Male,General Medicine,54758.0,Recovered,6
+10021,Patient_21,70.0,Male,Pediatrics,65353.0,Under Treatment,19
+10022,Patient_22,82.0,Female,Cardiology,74169.0,Recovered,2
+10023,Patient_23,13.0,Female,General Medicine,76291.0,Recovered,15
+10024,Patient_24,23.0,Male,Neurology,101073.0,Recovered,11
+10025,Patient_25,83.0,Male,Oncology,125869.0,Recovered,8
+10026,Patient_26,75.0,Female,Pediatrics,91236.0,Recovered,19
+10027,Patient_27,1.0,Male,General Medicine,80275.0,Recovered,13
+10028,Patient_28,88.0,Male,Cardiology,89192.0,Recovered,12
+10029,Patient_29,54.0,Male,Cardiology,77035.0,Recovered,5
+10030,Patient_30,71.0,Male,Orthopedics,75193.0,Deceased,6
+10031,Patient_31,89.0,Male,Orthopedics,63766.0,Under Treatment,4
+10032,Patient_32,,Male,Neurology,151836.0,Critical,19
+10033,Patient_33,15.0,Male,General Medicine,74711.0,Under Treatment,20
+10034,Patient_34,65.0,Female,,34342.0,Recovered,1
+10035,Patient_35,76.0,Female,Oncology,150888.0,Recovered,20
+10036,Patient_36,71.0,Female,Oncology,136797.0,Under Treatment,17
+10037,Patient_37,15.0,Female,Oncology,109008.0,Recovered,12
+10038,Patient_38,21.0,Female,Orthopedics,115220.0,Recovered,15
+10039,Patient_39,19.0,Male,General Medicine,27845.0,Recovered,1
+10040,Patient_40,60.0,Male,General Medicine,335405.0,Recovered,14
+10041,Patient_41,89.0,Male,Cardiology,74380.0,Recovered,6
+10042,Patient_42,33.0,Male,Orthopedics,67582.0,Recovered,5
+10043,Patient_43,49.0,Female,Pediatrics,54990.0,Recovered,11
+10044,Patient_44,35.0,Male,Orthopedics,63724.0,Under Treatment,4
+10045,Patient_45,44.0,Male,Pediatrics,60366.0,Recovered,13
+10046,Patient_46,90.0,Female,Cardiology,91402.0,Recovered,11
+10047,Patient_47,11.0,Male,Neurology,83431.0,Recovered,3
+10048,Patient_48,72.0,Male,General Medicine,36909.0,Under Treatment,1
+10049,Patient_49,78.0,Female,Cardiology,81154.0,Recovered,6
+10050,Patient_50,74.0,Male,General Medicine,,Recovered,18
+10051,Patient_51,66.0,Male,Oncology,123622.0,Recovered,10
+10052,Patient_52,46.0,Male,Neurology,73075.0,Recovered,5
+10053,Patient_53,9.0,Male,Neurology,102014.0,Critical,10
+10054,Patient_54,3.0,Male,Cardiology,89720.0,Critical,12
+10055,Patient_55,85.0,Female,Neurology,67683.0,Recovered,2
+10056,Patient_56,26.0,Female,Pediatrics,73829.0,Recovered,13
+10057,Patient_57,72.0,Female,Neurology,94355.0,Under Treatment,8
+10058,Patient_58,48.0,Female,General Medicine,42610.0,Recovered,2
+10059,Patient_59,66.0,Female,General Medicine,97596.0,Recovered,20
+10060,Patient_60,70.0,Female,General Medicine,42299.0,Recovered,1
+10061,Patient_61,28.0,Male,General Medicine,56977.0,Critical,5
+10062,Patient_62,26.0,Female,Pediatrics,45225.0,Recovered,9
+10063,Patient_63,25.0,Female,Orthopedics,104214.0,Recovered,17
+10064,Patient_64,12.0,Male,Oncology,122290.0,Under Treatment,9
+10065,Patient_65,5.0,Male,Cardiology,99271.0,Recovered,11
+10066,Patient_66,48.0,Female,General Medicine,73940.0,Recovered,15
+10067,Patient_67,37.0,Male,Neurology,79362.0,Deceased,6
+10068,Patient_68,79.0,Female,General Medicine,34787.0,Recovered,3
+10069,Patient_69,44.0,Male,Neurology,140311.0,Recovered,17
+10070,Patient_70,15.0,Female,Oncology,109209.0,Recovered,5
+10071,Patient_71,43.0,Male,Oncology,131867.0,Recovered,12
+10072,Patient_72,48.0,Male,Oncology,136549.0,Recovered,18
+10073,Patient_73,87.0,Female,Neurology,114836.0,Recovered,14
+10074,Patient_74,70.0,Female,General Medicine,69374.0,Recovered,11
+10075,Patient_75,46.0,Female,Oncology,,Under Treatment,9
+10076,Patient_76,43.0,Female,Pediatrics,28434.0,Recovered,2
+10077,Patient_77,21.0,Female,Neurology,102691.0,Recovered,12
+10078,Patient_78,23.0,Male,Neurology,70788.0,Recovered,3
+10079,Patient_79,80.0,Female,General Medicine,32312.0,Under Treatment,3
+10080,Patient_80,47.0,Female,Neurology,76240.0,Recovered,1
+10081,Patient_81,15.0,Male,Neurology,76847.0,Recovered,8
+10082,Patient_82,25.0,Male,Oncology,129289.0,Recovered,8
+10083,Patient_83,36.0,Female,General Medicine,59181.0,Recovered,11
+10084,Patient_84,75.0,Male,Oncology,123380.0,Recovered,9
+10085,Patient_85,51.0,Male,Oncology,110377.0,Under Treatment,5
+10086,Patient_86,15.0,Female,General Medicine,76280.0,Recovered,14
+10087,Patient_87,68.0,Male,Cardiology,73408.0,Recovered,3
+10088,Patient_88,21.0,Male,Oncology,107032.0,Recovered,5
+10089,Patient_89,13.0,Female,Pediatrics,51125.0,Under Treatment,5
+10090,Patient_90,86.0,Female,Pediatrics,104243.0,Recovered,19
+10091,Patient_91,19.0,Male,Neurology,110985.0,Recovered,14
+10092,Patient_92,34.0,Male,Pediatrics,41171.0,Recovered,4
+10093,Patient_93,78.0,Female,Neurology,97481.0,Recovered,13
+10094,Patient_94,68.0,Male,Cardiology,81098.0,Recovered,10
+10095,Patient_95,52.0,Male,General Medicine,78364.0,Recovered,18
+10096,Patient_96,27.0,Male,General Medicine,34859.0,Recovered,8
+10097,Patient_97,29.0,Female,General Medicine,51615.0,Recovered,8
+10098,Patient_98,28.0,Male,Pediatrics,32338.0,Recovered,7
+10099,Patient_99,35.0,Male,Cardiology,80971.0,Recovered,8
+10100,Patient_100,8.0,Female,Pediatrics,70942.0,Recovered,14
+10101,Patient_101,16.0,Male,Pediatrics,82229.0,Under Treatment,19
+10102,Patient_102,36.0,Male,Cardiology,78610.0,Deceased,6
+10103,Patient_103,30.0,Female,Cardiology,61571.0,Deceased,1
+10104,Patient_104,18.0,Female,Cardiology,124621.0,Critical,15
+10105,Patient_105,2.0,Female,Cardiology,76997.0,Recovered,1
+10106,Patient_106,49.0,Female,General Medicine,97654.0,Under Treatment,17
+10107,Patient_107,77.0,Male,Orthopedics,55841.0,Recovered,1
+10108,Patient_108,4.0,Male,Orthopedics,96507.0,Recovered,15
+10109,Patient_109,90.0,Female,Cardiology,74340.0,Recovered,2
+10110,Patient_110,89.0,Female,Orthopedics,98375.0,Recovered,14
+10111,Patient_111,75.0,Male,Orthopedics,85340.0,Under Treatment,8
+10112,Patient_112,7.0,Female,Cardiology,92820.0,Recovered,8
+10113,Patient_113,74.0,Male,Orthopedics,83721.0,Recovered,19
+10114,Patient_114,39.0,Female,Pediatrics,49166.0,Critical,7
+10115,Patient_115,13.0,Male,Neurology,139795.0,Recovered,19
+10116,Patient_116,31.0,Female,Neurology,84832.0,Recovered,6
+10117,Patient_117,71.0,Female,Cardiology,82728.0,Critical,6
+10118,Patient_118,63.0,Male,General Medicine,36911.0,Recovered,3
+10119,Patient_119,56.0,Female,Cardiology,77169.0,Recovered,7
+10120,Patient_120,42.0,Male,General Medicine,60733.0,Recovered,19
+10121,Patient_121,61.0,Male,Neurology,100462.0,Recovered,8
+10122,Patient_122,42.0,Male,Cardiology,87005.0,Critical,10
+10123,Patient_123,56.0,Male,Oncology,153529.0,Recovered,20
+10124,Patient_124,36.0,Male,Pediatrics,237480.0,Recovered,15
+10125,Patient_125,84.0,Female,Orthopedics,100363.0,Recovered,15
+10126,Patient_126,68.0,Female,General Medicine,34838.0,Recovered,1
+10127,Patient_127,7.0,Male,Oncology,136134.0,Deceased,20
+10128,Patient_128,54.0,Female,Orthopedics,81984.0,Recovered,7
+10129,Patient_129,1.0,Male,Orthopedics,67199.0,Recovered,4
+10130,Patient_130,44.0,Female,Cardiology,78504.0,Recovered,6
+10131,Patient_131,45.0,Female,Orthopedics,59259.0,Under Treatment,1
+10132,Patient_132,47.0,Female,Pediatrics,41765.0,Critical,5
+10133,Patient_133,13.0,Female,Oncology,88403.0,Recovered,1
+10134,Patient_134,22.0,Male,Orthopedics,58228.0,Recovered,4
+10135,Patient_135,21.0,Male,Cardiology,64118.0,Recovered,2
+10136,Patient_136,86.0,Female,Pediatrics,36806.0,Under Treatment,10
+10137,Patient_137,9.0,Female,Neurology,88108.0,Recovered,5
+10138,Patient_138,26.0,Male,Oncology,116891.0,Critical,10
+10139,Patient_139,9.0,Female,Orthopedics,44229.0,Recovered,1
+10140,Patient_140,15.0,Male,Cardiology,87964.0,Critical,6
+10141,Patient_141,10.0,Male,Neurology,124481.0,Recovered,13
+10142,Patient_142,88.0,Male,Neurology,91299.0,Recovered,15
+10143,Patient_143,42.0,Female,General Medicine,33342.0,Recovered,4
+10144,Patient_144,72.0,Male,Pediatrics,49112.0,Recovered,13
+10145,Patient_145,24.0,Female,Orthopedics,106353.0,Critical,20
+10146,Patient_146,80.0,Male,Cardiology,113217.0,Under Treatment,15
+10147,Patient_147,49.0,Female,General Medicine,66137.0,Under Treatment,8
+10148,Patient_148,26.0,Female,Pediatrics,26774.0,Recovered,5
+10149,Patient_149,37.0,Female,General Medicine,72109.0,Recovered,15
+10150,Patient_150,68.0,Male,Oncology,91430.0,Under Treatment,4
+10151,Patient_151,50.0,Male,Pediatrics,67722.0,Recovered,12
+10152,Patient_152,24.0,Female,Pediatrics,50793.0,Recovered,13
+10153,Patient_153,19.0,Female,Orthopedics,62070.0,Recovered,2
+10154,Patient_154,60.0,Female,Pediatrics,60483.0,Recovered,19
+10155,Patient_155,39.0,Male,General Medicine,86391.0,Recovered,19
+10156,Patient_156,74.0,Male,Pediatrics,33854.0,Recovered,4
+10157,Patient_157,89.0,Male,Orthopedics,67377.0,Recovered,4
+10158,Patient_158,18.0,Male,Orthopedics,71388.0,Deceased,11
+10159,Patient_159,19.0,Female,Oncology,98510.0,Recovered,5
+10160,Patient_160,36.0,Female,General Medicine,95082.0,Recovered,20
+10161,Patient_161,74.0,Male,Neurology,89328.0,Recovered,11
+10162,Patient_162,55.0,Male,Neurology,98870.0,Under Treatment,10
+10163,Patient_163,69.0,Female,Pediatrics,43626.0,Recovered,8
+10164,Patient_164,47.0,Male,Oncology,106352.0,Recovered,6
+10165,Patient_165,49.0,Male,Cardiology,76627.0,Recovered,6
+10166,Patient_166,33.0,Male,Pediatrics,61768.0,Recovered,8
+10167,Patient_167,21.0,Male,Oncology,707976.0,Recovered,15
+10168,Patient_168,81.0,Male,General Medicine,60780.0,Under Treatment,14
+10169,Patient_169,22.0,Male,General Medicine,60133.0,Critical,11
+10170,Patient_170,48.0,Female,General Medicine,69984.0,Recovered,12
+10171,Patient_171,37.0,Male,General Medicine,50086.0,Recovered,13
+10172,Patient_172,15.0,Male,General Medicine,53317.0,Critical,8
+10173,Patient_173,35.0,Female,Oncology,141057.0,Recovered,18
+10174,Patient_174,71.0,Female,Oncology,85330.0,Under Treatment,1
+10175,Patient_175,32.0,Female,Orthopedics,89187.0,Recovered,15
+10176,Patient_176,11.0,Male,Neurology,75622.0,Critical,8
+10177,Patient_177,10.0,Female,General Medicine,50713.0,Under Treatment,11
+10178,Patient_178,73.0,Male,Cardiology,103010.0,Critical,12
+10179,Patient_179,78.0,Male,Oncology,117955.0,Under Treatment,12
+10180,Patient_180,77.0,Male,Cardiology,77308.0,Recovered,4
+10181,Patient_181,57.0,Female,Cardiology,94507.0,Critical,16
+10182,Patient_182,25.0,Female,Cardiology,72373.0,Recovered,4
+10183,Patient_183,2.0,Female,Orthopedics,74297.0,Recovered,5
+10184,Patient_184,64.0,Female,Oncology,95661.0,Under Treatment,5
+10185,Patient_185,35.0,Female,Cardiology,87275.0,Under Treatment,8
+10186,Patient_186,7.0,Male,General Medicine,61386.0,Critical,10
+10187,Patient_187,85.0,Male,Pediatrics,71325.0,Recovered,17
+10188,Patient_188,18.0,Male,Cardiology,106520.0,Under Treatment,9
+10189,Patient_189,67.0,Male,Orthopedics,124369.0,Under Treatment,19
+10190,Patient_190,42.0,Female,Oncology,107445.0,Recovered,14
+10191,Patient_191,39.0,Female,Orthopedics,71791.0,Recovered,8
+10192,Patient_192,41.0,Male,Cardiology,93320.0,Recovered,9
+10193,Patient_193,75.0,Female,Oncology,115829.0,Recovered,11
+10194,Patient_194,24.0,Female,Pediatrics,18871.0,Deceased,1
+10195,Patient_195,60.0,Male,Cardiology,101791.0,Recovered,14
+10196,Patient_196,46.0,Male,Orthopedics,62668.0,Under Treatment,5
+10197,Patient_197,19.0,Female,Neurology,98125.0,Deceased,14
+10198,Patient_198,68.0,Female,General Medicine,39818.0,Recovered,4
+10199,Patient_199,90.0,Male,Orthopedics,47292.0,Under Treatment,1
+10200,Patient_200,42.0,Male,Oncology,130209.0,Recovered,19
+10201,Patient_201,32.0,Male,Cardiology,102547.0,Critical,8
+10202,Patient_202,39.0,Female,General Medicine,83193.0,Recovered,15
+10203,Patient_203,36.0,Male,Cardiology,96048.0,Critical,15
+10204,Patient_204,36.0,Male,Oncology,118012.0,Recovered,9
+10205,Patient_205,3.0,Female,Cardiology,88872.0,Recovered,9
+10206,Patient_206,73.0,Female,Neurology,104843.0,Under Treatment,10
+10207,Patient_207,,Female,General Medicine,62613.0,Recovered,20
+10208,Patient_208,70.0,Female,General Medicine,43991.0,Recovered,9
+10209,Patient_209,41.0,Female,Oncology,101387.0,Recovered,3
+10210,Patient_210,68.0,Male,Neurology,154710.0,Under Treatment,20
+10211,Patient_211,13.0,Male,Orthopedics,68595.0,Recovered,11
+10212,Patient_212,49.0,Female,Cardiology,83513.0,Recovered,6
+10213,Patient_213,60.0,Female,Pediatrics,34684.0,Recovered,2
+10214,Patient_214,2.0,Female,Cardiology,73808.0,Recovered,7
+10215,Patient_215,60.0,Female,Cardiology,96179.0,Recovered,18
+10216,Patient_216,5.0,Female,Orthopedics,51771.0,Recovered,2
+10217,Patient_217,44.0,Male,Cardiology,105404.0,Recovered,17
+10218,Patient_218,27.0,Male,Neurology,107157.0,Recovered,11
+10219,Patient_219,32.0,Male,Neurology,105706.0,Recovered,12
+10220,Patient_220,21.0,Male,General Medicine,107811.0,Critical,19
+10221,Patient_221,8.0,Female,Oncology,119629.0,Recovered,7
+10222,Patient_222,72.0,Male,Pediatrics,54773.0,Recovered,20
+10223,Patient_223,50.0,Female,Cardiology,84779.0,Under Treatment,6
+10224,Patient_224,67.0,Female,Cardiology,62830.0,Recovered,1
+10225,Patient_225,44.0,Female,Orthopedics,69619.0,Under Treatment,17
+10226,Patient_226,58.0,Male,Oncology,137893.0,Recovered,11
+10227,Patient_227,3.0,Female,Neurology,122661.0,Recovered,18
+10228,Patient_228,86.0,Male,Pediatrics,50888.0,Recovered,17
+10229,Patient_229,70.0,Male,General Medicine,63591.0,Under Treatment,7
+10230,Patient_230,2.0,Female,Neurology,129162.0,Under Treatment,17
+10231,Patient_231,87.0,Female,Oncology,134882.0,Recovered,20
+10232,Patient_232,44.0,Female,General Medicine,49103.0,Recovered,9
+10233,Patient_233,2.0,Male,Orthopedics,79492.0,Deceased,17
+10234,Patient_234,81.0,Female,Orthopedics,94212.0,Recovered,20
+10235,Patient_235,35.0,Male,Cardiology,82923.0,Recovered,8
+10236,Patient_236,87.0,Female,Oncology,142833.0,Critical,17
+10237,Patient_237,30.0,Female,Pediatrics,49254.0,Under Treatment,7
+10238,Patient_238,8.0,Male,General Medicine,25230.0,Recovered,1
+10239,Patient_239,22.0,Male,Neurology,109097.0,Under Treatment,13
+10240,Patient_240,44.0,Male,Oncology,167885.0,Critical,19
+10241,Patient_241,58.0,Male,Oncology,124053.0,Recovered,19
+10242,Patient_242,36.0,Male,Orthopedics,90229.0,Recovered,17
+10243,Patient_243,69.0,Male,Cardiology,92836.0,Recovered,13
+10244,Patient_244,77.0,Female,Cardiology,107589.0,Deceased,16
+10245,Patient_245,,Female,General Medicine,40667.0,Under Treatment,8
+10246,Patient_246,47.0,Male,Orthopedics,100864.0,Recovered,19
+10247,Patient_247,55.0,Female,Oncology,139956.0,Critical,18
+10248,Patient_248,80.0,Male,Pediatrics,17398.0,Recovered,1
+10249,Patient_249,62.0,Female,Orthopedics,95697.0,Recovered,14
+10250,Patient_250,30.0,Female,General Medicine,101172.0,Recovered,19
+10251,Patient_251,55.0,Male,General Medicine,85502.0,Recovered,15
+10252,Patient_252,16.0,Male,Orthopedics,99298.0,Critical,18
+10253,Patient_253,12.0,Male,General Medicine,41435.0,Recovered,2
+10254,Patient_254,17.0,Female,Orthopedics,114891.0,Under Treatment,17
+10255,Patient_255,16.0,Male,Neurology,119276.0,Recovered,18
+10256,Patient_256,12.0,Female,Orthopedics,67348.0,Recovered,6
+10257,Patient_257,8.0,Male,Orthopedics,98092.0,Deceased,19
+10258,Patient_258,84.0,Female,General Medicine,38666.0,Recovered,4
+10259,Patient_259,3.0,Female,General Medicine,23630.0,Recovered,1
+10260,Patient_260,16.0,Male,Cardiology,69760.0,Recovered,8
+10261,Patient_261,30.0,Female,Cardiology,83357.0,Critical,7
+10262,Patient_262,23.0,Female,Neurology,81555.0,Recovered,3
+10263,Patient_263,5.0,Male,Cardiology,84676.0,Recovered,10
+10264,Patient_264,84.0,Female,Orthopedics,57634.0,Recovered,10
+10265,Patient_265,65.0,Male,General Medicine,82176.0,Recovered,19
+10266,Patient_266,30.0,Male,Cardiology,102536.0,Under Treatment,14
+10267,Patient_267,21.0,Male,Cardiology,67731.0,Recovered,2
+10268,Patient_268,84.0,Male,Neurology,76932.0,Recovered,1
+10269,Patient_269,70.0,Female,Oncology,155752.0,Recovered,18
+10270,Patient_270,22.0,Female,Neurology,94836.0,Recovered,7
+10271,Patient_271,82.0,Female,Orthopedics,63023.0,Critical,8
+10272,Patient_272,72.0,Male,General Medicine,23466.0,Recovered,1
+10273,Patient_273,32.0,Female,Neurology,86391.0,Deceased,3
+10274,Patient_274,33.0,Female,Cardiology,81745.0,Recovered,8
+10275,Patient_275,16.0,Male,General Medicine,70465.0,Recovered,15
+10276,Patient_276,76.0,Male,General Medicine,41045.0,Critical,5
+10277,Patient_277,38.0,Female,Cardiology,81522.0,Recovered,3
+10278,Patient_278,14.0,Male,Neurology,136739.0,Under Treatment,19
+10279,Patient_279,36.0,Male,Cardiology,58383.0,Deceased,1
+10280,Patient_280,23.0,Male,Oncology,148151.0,Recovered,15
+10281,Patient_281,66.0,Male,General Medicine,47082.0,Recovered,8
+10282,Patient_282,85.0,Female,Pediatrics,35859.0,Under Treatment,2
+10283,Patient_283,2.0,Male,Pediatrics,28691.0,Recovered,3
+10284,Patient_284,73.0,Male,Orthopedics,70604.0,Recovered,14
+10285,Patient_285,65.0,Male,Cardiology,118295.0,Recovered,14
+10286,Patient_286,75.0,Male,Cardiology,97379.0,Recovered,11
+10287,Patient_287,67.0,Male,Orthopedics,75562.0,Under Treatment,16
+10288,Patient_288,52.0,Male,Orthopedics,59987.0,Recovered,4
+10289,Patient_289,62.0,Male,Orthopedics,103245.0,Recovered,20
+10290,Patient_290,23.0,Male,General Medicine,41554.0,Recovered,5
+10291,Patient_291,26.0,Female,Oncology,129656.0,Recovered,14
+10292,Patient_292,68.0,Male,Cardiology,115155.0,Recovered,16
+10293,Patient_293,82.0,Female,General Medicine,55945.0,Under Treatment,18
+10294,Patient_294,55.0,Male,Orthopedics,65986.0,Recovered,7
+10295,Patient_295,6.0,Male,Cardiology,90606.0,Under Treatment,10
+10296,Patient_296,35.0,Male,General Medicine,44621.0,Critical,7
+10297,Patient_297,22.0,Male,Oncology,85396.0,Recovered,1
+10298,Patient_298,43.0,Female,General Medicine,78160.0,Recovered,19
+10299,Patient_299,15.0,Male,Oncology,140744.0,Recovered,16
+10300,Patient_300,86.0,Male,Orthopedics,113255.0,Recovered,19
+10301,Patient_301,60.0,Female,Oncology,107056.0,Critical,4
+10302,Patient_302,12.0,Female,Cardiology,121337.0,Critical,18
+10303,Patient_303,49.0,Male,Orthopedics,63761.0,Recovered,2
+10304,Patient_304,42.0,Female,Cardiology,74804.0,Recovered,1
+10305,Patient_305,38.0,Female,Pediatrics,61886.0,Critical,15
+10306,Patient_306,82.0,Female,Neurology,73455.0,Deceased,5
+10307,Patient_307,45.0,Male,Oncology,165447.0,Recovered,20
+10308,Patient_308,35.0,Male,Neurology,105736.0,Recovered,11
+10309,Patient_309,30.0,Male,Neurology,91940.0,Recovered,10
+10310,Patient_310,88.0,Female,Oncology,101213.0,Deceased,2
+10311,Patient_311,30.0,Male,Orthopedics,64722.0,Recovered,3
+10312,Patient_312,78.0,Female,Pediatrics,57635.0,Recovered,12
+10313,Patient_313,6.0,Male,Cardiology,108447.0,Recovered,20
+10314,Patient_314,67.0,Male,General Medicine,41476.0,Recovered,5
+10315,Patient_315,80.0,Female,Cardiology,84221.0,Recovered,5
+10316,Patient_316,7.0,Male,General Medicine,50116.0,Deceased,6
+10317,Patient_317,52.0,Female,Cardiology,94768.0,Recovered,9
+10318,Patient_318,14.0,Female,Oncology,100685.0,Recovered,2
+10319,Patient_319,73.0,Male,Pediatrics,77850.0,Recovered,12
+10320,Patient_320,15.0,Female,General Medicine,28955.0,Recovered,3
+10321,Patient_321,21.0,Male,Orthopedics,116246.0,Recovered,20
+10322,Patient_322,35.0,Male,Cardiology,114798.0,Recovered,12
+10323,Patient_323,66.0,Female,Cardiology,129305.0,Recovered,17
+10324,Patient_324,2.0,Male,General Medicine,49780.0,Recovered,10
+10325,Patient_325,35.0,Female,Orthopedics,85947.0,Recovered,14
+10326,Patient_326,82.0,Male,Orthopedics,104034.0,Recovered,17
+10327,Patient_327,78.0,Male,Oncology,126565.0,Deceased,18
+10328,Patient_328,20.0,Male,Oncology,144208.0,Critical,19
+10329,Patient_329,82.0,Male,Oncology,127281.0,Recovered,17
+10330,Patient_330,10.0,Male,Oncology,116999.0,Recovered,14
+10331,Patient_331,25.0,Female,Oncology,99655.0,Critical,9
+10332,Patient_332,66.0,Female,Oncology,119411.0,Recovered,8
+10333,Patient_333,25.0,Female,Pediatrics,32891.0,Under Treatment,2
+10334,Patient_334,54.0,Female,Orthopedics,91083.0,Critical,13
+10335,Patient_335,33.0,Female,Oncology,105975.0,Recovered,7
+10336,Patient_336,36.0,Female,Orthopedics,67801.0,Recovered,9
+10337,Patient_337,14.0,Male,Orthopedics,81680.0,Deceased,11
+10338,Patient_338,65.0,Male,Neurology,83494.0,Recovered,14
+10339,Patient_339,80.0,Female,Pediatrics,35605.0,Recovered,4
+10340,Patient_340,54.0,Female,Oncology,107272.0,Recovered,13
+10341,Patient_341,52.0,Male,Cardiology,65508.0,Recovered,2
+10342,Patient_342,3.0,Male,General Medicine,30120.0,Under Treatment,5
+10343,Patient_343,41.0,Male,Cardiology,84719.0,Under Treatment,11
+10344,Patient_344,6.0,Female,Pediatrics,25632.0,Deceased,6
+10345,Patient_345,25.0,Female,General Medicine,78135.0,Recovered,18
+10346,Patient_346,13.0,Female,Pediatrics,52011.0,Recovered,10
+10347,Patient_347,8.0,Male,Orthopedics,65061.0,Recovered,4
+10348,Patient_348,21.0,Male,General Medicine,67886.0,Recovered,9
+10349,Patient_349,68.0,Female,Orthopedics,55996.0,Recovered,6
+10350,Patient_350,25.0,Female,Cardiology,60444.0,Deceased,2
+10351,Patient_351,79.0,Male,Cardiology,114337.0,Critical,17
+10352,Patient_352,68.0,Male,General Medicine,36454.0,Recovered,5
+10353,Patient_353,45.0,Male,General Medicine,48672.0,Recovered,6
+10354,Patient_354,60.0,Male,Oncology,132967.0,Recovered,12
+10355,Patient_355,12.0,Female,Pediatrics,53389.0,Recovered,10
+10356,Patient_356,32.0,Male,Oncology,105325.0,Under Treatment,6
+10357,Patient_357,13.0,Male,Pediatrics,54831.0,Recovered,8
+10358,Patient_358,31.0,Male,Oncology,87198.0,Deceased,2
+10359,Patient_359,78.0,Female,Orthopedics,92123.0,Recovered,12
+10360,Patient_360,20.0,Female,General Medicine,82374.0,Recovered,13
+10361,Patient_361,18.0,Male,Cardiology,86395.0,Under Treatment,7
+10362,Patient_362,60.0,Male,Pediatrics,42937.0,Recovered,10
+10363,Patient_363,63.0,Male,Pediatrics,55936.0,Recovered,13
+10364,Patient_364,6.0,Female,Cardiology,101831.0,Recovered,17
+10365,Patient_365,32.0,Female,Oncology,106696.0,Recovered,14
+10366,Patient_366,43.0,Female,Pediatrics,,Under Treatment,2
+10367,Patient_367,2.0,Male,Orthopedics,80979.0,Recovered,11
+10368,Patient_368,60.0,Female,General Medicine,40874.0,Under Treatment,1
+10369,Patient_369,23.0,Male,Cardiology,99166.0,Recovered,19
+10370,Patient_370,83.0,Male,General Medicine,40919.0,Recovered,4
+10371,Patient_371,31.0,Male,Pediatrics,107731.0,Under Treatment,19
+10372,Patient_372,5.0,Female,Pediatrics,50605.0,Recovered,11
+10373,Patient_373,83.0,Male,Cardiology,76649.0,Recovered,8
+10374,Patient_374,34.0,Female,Orthopedics,101668.0,Recovered,11
+10375,Patient_375,10.0,Female,Neurology,92443.0,Recovered,4
+10376,Patient_376,89.0,Male,Cardiology,126719.0,Recovered,17
+10377,Patient_377,2.0,Male,Neurology,86934.0,Recovered,7
+10378,Patient_378,11.0,Female,Oncology,125122.0,Recovered,8
+10379,Patient_379,50.0,Male,Neurology,78511.0,Recovered,3
+10380,Patient_380,31.0,Female,Orthopedics,55737.0,Deceased,2
+10381,Patient_381,56.0,Male,Oncology,136980.0,Recovered,15
+10382,Patient_382,79.0,Female,Neurology,86241.0,Critical,5
+10383,Patient_383,73.0,Female,Oncology,91674.0,Recovered,1
+10384,Patient_384,87.0,Female,Neurology,86012.0,Recovered,4
+10385,Patient_385,83.0,Female,Orthopedics,99095.0,Critical,15
+10386,Patient_386,9.0,Male,Neurology,131867.0,Recovered,20
+10387,Patient_387,21.0,Male,Neurology,117910.0,Under Treatment,19
+10388,Patient_388,73.0,Female,Neurology,86998.0,Recovered,3
+10389,Patient_389,28.0,Female,Cardiology,134112.0,Recovered,20
+10390,Patient_390,62.0,Male,Cardiology,94737.0,Recovered,11
+10391,Patient_391,7.0,Male,Cardiology,117628.0,Recovered,17
+10392,Patient_392,80.0,Male,Orthopedics,83777.0,Critical,13
+10393,Patient_393,16.0,Male,Oncology,106065.0,Recovered,11
+10394,Patient_394,4.0,Male,Pediatrics,23518.0,Deceased,2
+10395,Patient_395,4.0,Male,Neurology,77396.0,Deceased,9
+10396,Patient_396,40.0,Female,Neurology,78862.0,Recovered,2
+10397,Patient_397,17.0,Male,Orthopedics,73548.0,Recovered,9
+10398,Patient_398,52.0,Male,Neurology,105743.0,Critical,9
+10399,Patient_399,52.0,Female,Cardiology,74345.0,Deceased,8
+10400,Patient_400,36.0,Male,Pediatrics,90035.0,Recovered,17
+10401,Patient_401,38.0,Male,,26721.0,Recovered,1
+10402,Patient_402,50.0,Male,Neurology,102007.0,Recovered,11
+10403,Patient_403,63.0,Male,Cardiology,77864.0,Under Treatment,8
+10404,Patient_404,63.0,Male,General Medicine,55165.0,Recovered,10
+10405,Patient_405,62.0,Female,Pediatrics,47876.0,Under Treatment,7
+10406,Patient_406,7.0,Male,General Medicine,36986.0,Recovered,3
+10407,Patient_407,27.0,Female,Cardiology,63960.0,Recovered,3
+10408,Patient_408,86.0,Female,Oncology,150407.0,Recovered,18
+10409,Patient_409,14.0,Male,Oncology,116469.0,Recovered,5
+10410,Patient_410,71.0,Female,General Medicine,53170.0,Recovered,12
+10411,Patient_411,86.0,Male,Orthopedics,73369.0,Recovered,12
+10412,Patient_412,5.0,Female,General Medicine,91715.0,Recovered,19
+10413,Patient_413,55.0,Female,Neurology,92398.0,Recovered,6
+10414,Patient_414,2.0,Male,Neurology,82585.0,Recovered,2
+10415,Patient_415,62.0,Male,Oncology,136736.0,Deceased,12
+10416,Patient_416,21.0,Male,Orthopedics,111036.0,Recovered,19
+10417,Patient_417,79.0,Male,Cardiology,86409.0,Recovered,5
+10418,Patient_418,21.0,Male,Neurology,116738.0,Recovered,12
+10419,Patient_419,10.0,Female,Oncology,,Deceased,17
+10420,Patient_420,87.0,Female,Pediatrics,91901.0,Recovered,17
+10421,Patient_421,58.0,Female,Oncology,117665.0,Under Treatment,10
+10422,Patient_422,39.0,Female,Neurology,125048.0,Under Treatment,17
+10423,Patient_423,5.0,Female,Neurology,118508.0,Recovered,15
+10424,Patient_424,65.0,Female,Oncology,115819.0,Recovered,12
+10425,Patient_425,13.0,Female,Cardiology,89004.0,Under Treatment,16
+10426,Patient_426,85.0,Male,General Medicine,84495.0,Recovered,19
+10427,Patient_427,90.0,Male,Neurology,91266.0,Recovered,8
+10428,Patient_428,85.0,Female,Oncology,142670.0,Under Treatment,17
+10429,Patient_429,53.0,Female,Oncology,97374.0,Recovered,5
+10430,Patient_430,82.0,Male,Orthopedics,85943.0,Under Treatment,16
+10431,Patient_431,45.0,Male,General Medicine,45200.0,Recovered,6
+10432,Patient_432,32.0,Male,Pediatrics,43023.0,Under Treatment,8
+10433,Patient_433,36.0,Male,Cardiology,98991.0,Recovered,18
+10434,Patient_434,81.0,Female,Pediatrics,79125.0,Recovered,12
+10435,Patient_435,60.0,Male,General Medicine,67911.0,Recovered,15
+10436,Patient_436,11.0,Female,General Medicine,50392.0,Deceased,9
+10437,Patient_437,63.0,Female,General Medicine,76329.0,Recovered,13
+10438,Patient_438,21.0,Female,Pediatrics,42926.0,Recovered,15
+10439,Patient_439,52.0,Male,General Medicine,52763.0,Recovered,10
+10440,Patient_440,55.0,Male,Oncology,132044.0,Recovered,16
+10441,Patient_441,26.0,Female,Pediatrics,50024.0,Recovered,7
+10442,Patient_442,68.0,Female,General Medicine,103812.0,Recovered,17
+10443,Patient_443,34.0,Female,Oncology,106678.0,Recovered,7
+10444,Patient_444,52.0,Male,Orthopedics,85852.0,Recovered,14
+10445,Patient_445,82.0,Female,General Medicine,64252.0,Recovered,15
+10446,Patient_446,52.0,Male,Pediatrics,46466.0,Recovered,7
+10447,Patient_447,29.0,Female,Neurology,85686.0,Under Treatment,9
+10448,Patient_448,38.0,Female,General Medicine,74266.0,Recovered,19
+10449,Patient_449,42.0,Female,Neurology,346713.0,Recovered,16
+10450,Patient_450,21.0,Male,Oncology,111447.0,Recovered,8
+10451,Patient_451,42.0,Male,Orthopedics,101262.0,Deceased,18
+10452,Patient_452,13.0,Female,Cardiology,104771.0,Deceased,18
+10453,Patient_453,64.0,Male,Orthopedics,94936.0,Under Treatment,20
+10454,Patient_454,17.0,Female,General Medicine,40757.0,Recovered,7
+10455,Patient_455,9.0,Male,Neurology,73670.0,Recovered,3
+10456,Patient_456,41.0,Male,Neurology,98246.0,Recovered,18
+10457,Patient_457,1.0,Male,Pediatrics,51782.0,Recovered,10
+10458,Patient_458,2.0,Female,Neurology,95000.0,Recovered,7
+10459,Patient_459,60.0,Male,Pediatrics,89980.0,Under Treatment,17
+10460,Patient_460,48.0,Male,Oncology,128852.0,Critical,14
+10461,Patient_461,29.0,Female,Cardiology,77716.0,Under Treatment,3
+10462,Patient_462,10.0,Female,General Medicine,59052.0,Recovered,12
+10463,Patient_463,58.0,Female,Pediatrics,59219.0,Under Treatment,13
+10464,Patient_464,60.0,Female,Cardiology,75381.0,Recovered,2
+10465,Patient_465,21.0,Male,Neurology,75075.0,Recovered,3
+10466,Patient_466,28.0,Male,Neurology,98508.0,Under Treatment,5
+10467,Patient_467,75.0,Male,Cardiology,106910.0,Recovered,11
+10468,Patient_468,34.0,Male,Neurology,93641.0,Recovered,8
+10469,Patient_469,,Male,Oncology,123917.0,Recovered,12
+10470,Patient_470,59.0,Female,Oncology,109746.0,Under Treatment,7
+10471,Patient_471,86.0,Male,Cardiology,97686.0,Under Treatment,15
+10472,Patient_472,72.0,Male,Pediatrics,65686.0,Recovered,17
+10473,Patient_473,49.0,Male,Pediatrics,43889.0,Under Treatment,4
+10474,Patient_474,79.0,Female,Cardiology,96487.0,Recovered,13
+10475,Patient_475,17.0,Female,Pediatrics,63958.0,Recovered,18
+10476,Patient_476,60.0,Male,Pediatrics,36802.0,Under Treatment,1
+10477,Patient_477,87.0,Female,Oncology,123781.0,Under Treatment,16
+10478,Patient_478,88.0,Female,Pediatrics,55585.0,Deceased,13
+10479,Patient_479,45.0,Female,Orthopedics,76849.0,Recovered,10
+10480,Patient_480,83.0,Female,General Medicine,49714.0,Under Treatment,12
+10481,Patient_481,69.0,Female,Neurology,81722.0,Recovered,2
+10482,Patient_482,32.0,Female,Orthopedics,48156.0,Critical,3
+10483,Patient_483,44.0,Female,Pediatrics,46037.0,Recovered,10
+10484,Patient_484,65.0,Male,Oncology,90116.0,Under Treatment,2
+10485,Patient_485,87.0,Male,Cardiology,80870.0,Recovered,13
+10486,Patient_486,8.0,Female,Pediatrics,54060.0,Recovered,13
+10487,Patient_487,77.0,Male,Oncology,159599.0,Recovered,18
+10488,Patient_488,72.0,Male,General Medicine,39873.0,Recovered,3
+10489,Patient_489,87.0,Female,Pediatrics,50626.0,Recovered,7
+10490,Patient_490,43.0,Male,Cardiology,103311.0,Critical,14
+10491,Patient_491,1.0,Female,Oncology,147271.0,Recovered,20
+10492,Patient_492,51.0,Female,Oncology,122741.0,Recovered,17
+10493,Patient_493,24.0,Female,Oncology,125121.0,Recovered,12
+10494,Patient_494,24.0,Male,General Medicine,91270.0,Recovered,16
+10495,Patient_495,17.0,Male,Pediatrics,45962.0,Recovered,12
+10496,Patient_496,5.0,Male,General Medicine,64147.0,Recovered,15
+10497,Patient_497,20.0,Male,Neurology,99677.0,Recovered,10
+10498,Patient_498,21.0,Female,Neurology,99881.0,Recovered,7
+10499,Patient_499,58.0,Female,Pediatrics,99201.0,Recovered,20
+10500,Patient_500,31.0,Male,General Medicine,43882.0,Recovered,5
+10501,Patient_501,11.0,Female,Cardiology,66806.0,Recovered,1
+10502,Patient_502,52.0,Female,Oncology,161236.0,Recovered,17
+10503,Patient_503,15.0,Male,Oncology,94246.0,Recovered,3
+10504,Patient_504,83.0,Female,Pediatrics,49907.0,Critical,13
+10505,Patient_505,7.0,Male,Neurology,95482.0,Critical,14
+10506,Patient_506,28.0,Female,Neurology,139920.0,Under Treatment,18
+10507,Patient_507,51.0,Male,Oncology,114645.0,Recovered,4
+10508,Patient_508,58.0,Female,Pediatrics,78995.0,Under Treatment,18
+10509,Patient_509,5.0,Female,General Medicine,44876.0,Under Treatment,5
+10510,Patient_510,5.0,Male,Neurology,116051.0,Under Treatment,16
+10511,Patient_511,8.0,Male,General Medicine,37659.0,Recovered,1
+10512,Patient_512,64.0,Male,Neurology,93493.0,Recovered,14
+10513,Patient_513,10.0,Male,Neurology,115987.0,Under Treatment,15
+10514,Patient_514,38.0,Female,Orthopedics,73306.0,Recovered,9
+10515,Patient_515,81.0,Female,Neurology,109449.0,Recovered,15
+10516,Patient_516,8.0,Male,Cardiology,104412.0,Recovered,17
+10517,Patient_517,25.0,Female,Pediatrics,27730.0,Recovered,4
+10518,Patient_518,73.0,Male,Pediatrics,58052.0,Recovered,12
+10519,Patient_519,66.0,Male,General Medicine,46207.0,Recovered,5
+10520,Patient_520,79.0,Female,Neurology,80384.0,Recovered,5
+10521,Patient_521,50.0,Female,Cardiology,92129.0,Recovered,11
+10522,Patient_522,67.0,Male,General Medicine,52432.0,Recovered,6
+10523,Patient_523,49.0,Male,Orthopedics,63008.0,Recovered,7
+10524,Patient_524,36.0,Male,General Medicine,72527.0,Recovered,14
+10525,Patient_525,68.0,Female,General Medicine,70765.0,Under Treatment,11
+10526,Patient_526,78.0,Female,Neurology,121380.0,Under Treatment,13
+10527,Patient_527,41.0,Female,Orthopedics,47025.0,Recovered,2
+10528,Patient_528,89.0,Female,General Medicine,66062.0,Recovered,7
+10529,Patient_529,62.0,Male,Cardiology,135777.0,Recovered,20
+10530,Patient_530,10.0,Male,Cardiology,86064.0,Critical,4
+10531,Patient_531,21.0,Male,Pediatrics,42577.0,Recovered,8
+10532,Patient_532,36.0,Male,Orthopedics,96825.0,Recovered,20
+10533,Patient_533,12.0,Male,Orthopedics,119249.0,Recovered,19
+10534,Patient_534,2.0,Male,Pediatrics,248980.0,Recovered,13
+10535,Patient_535,13.0,Female,General Medicine,67531.0,Critical,14
+10536,Patient_536,53.0,Female,Orthopedics,77933.0,Under Treatment,10
+10537,Patient_537,32.0,Male,Cardiology,105679.0,Recovered,11
+10538,Patient_538,16.0,Male,Cardiology,66682.0,Recovered,2
+10539,Patient_539,32.0,Female,Neurology,,Recovered,9
+10540,Patient_540,32.0,Female,Orthopedics,114104.0,Recovered,17
+10541,Patient_541,11.0,Female,General Medicine,45043.0,Recovered,3
+10542,Patient_542,10.0,Female,Pediatrics,48994.0,Recovered,6
+10543,Patient_543,15.0,Male,Pediatrics,28645.0,Recovered,5
+10544,Patient_544,17.0,Male,General Medicine,40257.0,Recovered,5
+10545,Patient_545,40.0,Male,Oncology,122976.0,Critical,15
+10546,Patient_546,18.0,Male,Neurology,97450.0,Recovered,17
+10547,Patient_547,55.0,Male,Pediatrics,53629.0,Under Treatment,9
+10548,Patient_548,73.0,Female,Orthopedics,59738.0,Under Treatment,3
+10549,Patient_549,25.0,Male,Neurology,146489.0,Recovered,20
+10550,Patient_550,59.0,Female,Orthopedics,100376.0,Under Treatment,17
+10551,Patient_551,78.0,Male,Cardiology,88029.0,Recovered,10
+10552,Patient_552,89.0,Male,Neurology,81334.0,Recovered,3
+10553,Patient_553,22.0,Male,Pediatrics,74811.0,Recovered,18
+10554,Patient_554,30.0,Male,Neurology,121127.0,Deceased,18
+10555,Patient_555,84.0,Male,Neurology,131168.0,Recovered,17
+10556,Patient_556,85.0,Female,Neurology,83937.0,Recovered,3
+10557,Patient_557,44.0,Female,Oncology,109227.0,Critical,3
+10558,Patient_558,32.0,Female,Neurology,94106.0,Recovered,6
+10559,Patient_559,51.0,Male,Orthopedics,100391.0,Under Treatment,13
+10560,Patient_560,46.0,Male,Cardiology,103301.0,Under Treatment,15
+10561,Patient_561,21.0,Female,General Medicine,48568.0,Under Treatment,9
+10562,Patient_562,32.0,Male,Neurology,82731.0,Deceased,4
+10563,Patient_563,39.0,Male,Pediatrics,76379.0,Deceased,14
+10564,Patient_564,12.0,Female,Neurology,91285.0,Recovered,5
+10565,Patient_565,47.0,Male,Pediatrics,33980.0,Under Treatment,2
+10566,Patient_566,18.0,Female,Orthopedics,74825.0,Recovered,11
+10567,Patient_567,21.0,Male,,42025.0,Recovered,9
+10568,Patient_568,13.0,Female,General Medicine,37118.0,Recovered,3
+10569,Patient_569,21.0,Male,Cardiology,101630.0,Under Treatment,9
+10570,Patient_570,8.0,Male,Pediatrics,35434.0,Deceased,3
+10571,Patient_571,46.0,Female,Pediatrics,38414.0,Critical,2
+10572,Patient_572,7.0,Male,Cardiology,91620.0,Recovered,12
+10573,Patient_573,23.0,Male,General Medicine,71132.0,Recovered,10
+10574,Patient_574,75.0,Female,Neurology,88607.0,Recovered,9
+10575,Patient_575,86.0,Male,Pediatrics,89941.0,Under Treatment,15
+10576,Patient_576,22.0,Female,Cardiology,88131.0,Under Treatment,8
+10577,Patient_577,89.0,Male,Orthopedics,59345.0,Recovered,5
+10578,Patient_578,22.0,Male,Cardiology,80748.0,Recovered,11
+10579,Patient_579,29.0,Male,Orthopedics,63200.0,Recovered,2
+10580,Patient_580,13.0,Male,General Medicine,68894.0,Recovered,15
+10581,Patient_581,82.0,Female,Neurology,86970.0,Critical,6
+10582,Patient_582,2.0,Male,Cardiology,69930.0,Recovered,8
+10583,Patient_583,29.0,Female,Oncology,104108.0,Recovered,5
+10584,Patient_584,85.0,Male,Pediatrics,67068.0,Recovered,16
+10585,Patient_585,,Male,General Medicine,82707.0,Recovered,18
+10586,Patient_586,52.0,Male,Cardiology,91084.0,Deceased,6
+10587,Patient_587,27.0,Male,Pediatrics,37927.0,Recovered,5
+10588,Patient_588,50.0,Female,Cardiology,99640.0,Recovered,16
+10589,Patient_589,79.0,Female,Orthopedics,77561.0,Recovered,13
+10590,Patient_590,23.0,Female,Cardiology,66741.0,Under Treatment,5
+10591,Patient_591,88.0,Female,Oncology,130322.0,Under Treatment,13
+10592,Patient_592,44.0,Male,Cardiology,115794.0,Under Treatment,17
+10593,Patient_593,77.0,Female,Cardiology,125524.0,Recovered,18
+10594,Patient_594,22.0,Female,Oncology,110691.0,Recovered,8
+10595,Patient_595,43.0,Male,General Medicine,60491.0,Recovered,13
+10596,Patient_596,37.0,Male,Cardiology,109022.0,Under Treatment,19
+10597,Patient_597,61.0,Male,Oncology,93641.0,Recovered,3
+10598,Patient_598,56.0,Male,Pediatrics,48536.0,Recovered,8
+10599,Patient_599,3.0,Female,Orthopedics,65890.0,Critical,2
+10600,Patient_600,63.0,Female,Orthopedics,63322.0,Critical,8
+10601,Patient_601,19.0,Male,Cardiology,112167.0,Recovered,13
+10602,Patient_602,23.0,Male,General Medicine,60115.0,Recovered,13
+10603,Patient_603,29.0,Male,General Medicine,41194.0,Recovered,1
+10604,Patient_604,30.0,Female,Pediatrics,48170.0,Under Treatment,6
+10605,Patient_605,39.0,Female,Cardiology,111332.0,Under Treatment,19
+10606,Patient_606,25.0,Male,Orthopedics,93310.0,Recovered,16
+10607,Patient_607,8.0,Male,General Medicine,68448.0,Recovered,8
+10608,Patient_608,58.0,Female,Cardiology,67887.0,Under Treatment,1
+10609,Patient_609,16.0,Male,General Medicine,75892.0,Critical,16
+10610,Patient_610,72.0,Male,Oncology,107090.0,Recovered,9
+10611,Patient_611,1.0,Female,General Medicine,57186.0,Recovered,13
+10612,Patient_612,5.0,Male,Orthopedics,79796.0,Recovered,11
+10613,Patient_613,3.0,Female,Neurology,86087.0,Recovered,13
+10614,Patient_614,65.0,Male,Pediatrics,39897.0,Critical,10
+10615,Patient_615,4.0,Male,Pediatrics,38100.0,Under Treatment,4
+10616,Patient_616,64.0,Female,Orthopedics,64038.0,Under Treatment,6
+10617,Patient_617,89.0,Female,General Medicine,58193.0,Recovered,7
+10618,Patient_618,10.0,Male,Cardiology,80932.0,Under Treatment,5
+10619,Patient_619,21.0,Female,General Medicine,54071.0,Recovered,11
+10620,Patient_620,46.0,Male,Orthopedics,72257.0,Recovered,13
+10621,Patient_621,27.0,Male,Pediatrics,86940.0,Recovered,19
+10622,Patient_622,66.0,Female,General Medicine,62112.0,Recovered,10
+10623,Patient_623,41.0,Male,Pediatrics,44909.0,Under Treatment,10
+10624,Patient_624,13.0,Male,Cardiology,107903.0,Recovered,11
+10625,Patient_625,9.0,Female,Pediatrics,40542.0,Recovered,7
+10626,Patient_626,36.0,Female,Pediatrics,62744.0,Recovered,18
+10627,Patient_627,86.0,Male,Neurology,76370.0,Recovered,4
+10628,Patient_628,90.0,Female,Neurology,72260.0,Recovered,2
+10629,Patient_629,58.0,Female,Oncology,132256.0,Recovered,14
+10630,Patient_630,54.0,Female,Neurology,94827.0,Under Treatment,13
+10631,Patient_631,12.0,Female,Pediatrics,69029.0,Recovered,12
+10632,Patient_632,81.0,Male,Orthopedics,81213.0,Recovered,7
+10633,Patient_633,78.0,Male,Pediatrics,35021.0,Recovered,2
+10634,Patient_634,14.0,Male,Orthopedics,106156.0,Under Treatment,13
+10635,Patient_635,34.0,Female,Orthopedics,85059.0,Recovered,14
+10636,Patient_636,53.0,Female,Neurology,91969.0,Recovered,17
+10637,Patient_637,20.0,Female,General Medicine,57070.0,Recovered,9
+10638,Patient_638,75.0,Female,Cardiology,97290.0,Recovered,17
+10639,Patient_639,16.0,Female,Neurology,86089.0,Recovered,8
+10640,Patient_640,70.0,Female,Neurology,224067.0,Under Treatment,2
+10641,Patient_641,56.0,Female,General Medicine,62668.0,Recovered,13
+10642,Patient_642,83.0,Male,Cardiology,69173.0,Recovered,3
+10643,Patient_643,58.0,Male,Pediatrics,78226.0,Under Treatment,16
+10644,Patient_644,4.0,Female,Oncology,108190.0,Under Treatment,6
+10645,Patient_645,4.0,Female,Oncology,129613.0,Recovered,19
+10646,Patient_646,20.0,Female,Pediatrics,,Recovered,7
+10647,Patient_647,10.0,Male,Neurology,111701.0,Recovered,10
+10648,Patient_648,24.0,Male,Cardiology,83533.0,Recovered,9
+10649,Patient_649,26.0,Female,Neurology,65402.0,Under Treatment,2
+10650,Patient_650,37.0,Female,Orthopedics,115237.0,Critical,15
+10651,Patient_651,85.0,Male,Neurology,78610.0,Deceased,5
+10652,Patient_652,54.0,Male,Neurology,79864.0,Recovered,4
+10653,Patient_653,21.0,Male,Pediatrics,67572.0,Recovered,20
+10654,Patient_654,74.0,Male,Pediatrics,35497.0,Recovered,4
+10655,Patient_655,38.0,Female,Pediatrics,75445.0,Under Treatment,18
+10656,Patient_656,46.0,Male,Oncology,107347.0,Recovered,4
+10657,Patient_657,4.0,Male,Orthopedics,111181.0,Recovered,17
+10658,Patient_658,60.0,Female,Pediatrics,55297.0,Under Treatment,12
+10659,Patient_659,57.0,Male,Cardiology,113957.0,Under Treatment,17
+10660,Patient_660,45.0,Male,Oncology,117425.0,Under Treatment,10
+10661,Patient_661,20.0,Male,General Medicine,38648.0,Recovered,1
+10662,Patient_662,17.0,Female,Cardiology,122778.0,Under Treatment,18
+10663,Patient_663,71.0,Male,Cardiology,105011.0,Critical,18
+10664,Patient_664,4.0,Female,Pediatrics,63226.0,Recovered,14
+10665,Patient_665,14.0,Female,General Medicine,88779.0,Recovered,15
+10666,Patient_666,3.0,Male,General Medicine,57296.0,Recovered,12
+10667,Patient_667,88.0,Male,Oncology,91725.0,Deceased,4
+10668,Patient_668,80.0,Male,General Medicine,36991.0,Recovered,3
+10669,Patient_669,58.0,Male,Orthopedics,83998.0,Recovered,20
+10670,Patient_670,55.0,Female,Pediatrics,66567.0,Recovered,12
+10671,Patient_671,4.0,Male,General Medicine,41339.0,Under Treatment,7
+10672,Patient_672,24.0,Male,Oncology,103390.0,Recovered,11
+10673,Patient_673,34.0,Male,Orthopedics,43743.0,Recovered,1
+10674,Patient_674,30.0,Female,Neurology,82194.0,Recovered,6
+10675,Patient_675,82.0,Male,Neurology,101541.0,Critical,15
+10676,Patient_676,19.0,Male,Orthopedics,70390.0,Recovered,15
+10677,Patient_677,31.0,Female,Oncology,136471.0,Recovered,19
+10678,Patient_678,60.0,Female,Orthopedics,76935.0,Under Treatment,11
+10679,Patient_679,60.0,Male,Pediatrics,28052.0,Recovered,2
+10680,Patient_680,19.0,Male,Pediatrics,70405.0,Critical,14
+10681,Patient_681,49.0,Male,Neurology,68692.0,Recovered,2
+10682,Patient_682,63.0,Male,General Medicine,43456.0,Recovered,4
+10683,Patient_683,83.0,Male,Oncology,126708.0,Recovered,17
+10684,Patient_684,22.0,Female,Neurology,76300.0,Recovered,3
+10685,Patient_685,24.0,Female,General Medicine,66253.0,Under Treatment,13
+10686,Patient_686,76.0,Male,General Medicine,57129.0,Recovered,9
+10687,Patient_687,30.0,Male,Pediatrics,43769.0,Under Treatment,7
+10688,Patient_688,58.0,Female,Cardiology,111108.0,Recovered,15
+10689,Patient_689,31.0,Male,Cardiology,91706.0,Recovered,11
+10690,Patient_690,64.0,Male,Orthopedics,,Recovered,20
+10691,Patient_691,19.0,Male,Pediatrics,26352.0,Deceased,2
+10692,Patient_692,48.0,Male,General Medicine,65097.0,Recovered,15
+10693,Patient_693,45.0,Male,Oncology,121328.0,Recovered,14
+10694,Patient_694,55.0,Female,Cardiology,139903.0,Recovered,20
+10695,Patient_695,55.0,Male,General Medicine,61012.0,Recovered,11
+10696,Patient_696,18.0,Male,Cardiology,74459.0,Recovered,3
+10697,Patient_697,63.0,Male,Cardiology,96441.0,Critical,17
+10698,Patient_698,47.0,Female,Cardiology,79529.0,Recovered,12
+10699,Patient_699,75.0,Female,Oncology,128125.0,Critical,15
+10700,Patient_700,57.0,Female,Pediatrics,48101.0,Recovered,16
+10701,Patient_701,45.0,Female,Oncology,110265.0,Under Treatment,5
+10702,Patient_702,33.0,Male,Neurology,123044.0,Critical,20
+10703,Patient_703,17.0,Female,General Medicine,40576.0,Recovered,6
+10704,Patient_704,70.0,Male,Pediatrics,99738.0,Deceased,19
+10705,Patient_705,,Male,Pediatrics,36850.0,Recovered,5
+10706,Patient_706,20.0,Female,Pediatrics,32784.0,Critical,3
+10707,Patient_707,47.0,Female,Pediatrics,24290.0,Under Treatment,1
+10708,Patient_708,15.0,Female,Oncology,111986.0,Recovered,6
+10709,Patient_709,70.0,Female,Pediatrics,64070.0,Recovered,15
+10710,Patient_710,47.0,Female,Orthopedics,52679.0,Recovered,2
+10711,Patient_711,78.0,Male,General Medicine,38516.0,Recovered,3
+10712,Patient_712,75.0,Female,Pediatrics,66745.0,Recovered,17
+10713,Patient_713,9.0,Female,General Medicine,70539.0,Recovered,12
+10714,Patient_714,90.0,Female,Orthopedics,88116.0,Recovered,18
+10715,Patient_715,16.0,Male,Orthopedics,77856.0,Under Treatment,15
+10716,Patient_716,69.0,Female,General Medicine,68886.0,Recovered,12
+10717,Patient_717,61.0,Male,Cardiology,128331.0,Recovered,16
+10718,Patient_718,10.0,Female,Neurology,94970.0,Recovered,8
+10719,Patient_719,50.0,Female,,476340.0,Recovered,14
+10720,Patient_720,3.0,Male,Cardiology,134326.0,Recovered,17
+10721,Patient_721,77.0,Female,Oncology,122242.0,Recovered,8
+10722,Patient_722,70.0,Male,Cardiology,98779.0,Critical,15
+10723,Patient_723,81.0,Male,Pediatrics,74523.0,Under Treatment,14
+10724,Patient_724,51.0,Male,Oncology,138355.0,Recovered,18
+10725,Patient_725,19.0,Female,,156143.0,Under Treatment,20
+10726,Patient_726,42.0,Female,Orthopedics,67796.0,Recovered,7
+10727,Patient_727,35.0,Female,Cardiology,69542.0,Under Treatment,3
+10728,Patient_728,46.0,Male,Orthopedics,81715.0,Under Treatment,12
+10729,Patient_729,26.0,Female,General Medicine,40392.0,Recovered,3
+10730,Patient_730,69.0,Male,Neurology,113753.0,Recovered,20
+10731,Patient_731,64.0,Female,Oncology,135521.0,Recovered,14
+10732,Patient_732,37.0,Male,General Medicine,82073.0,Recovered,15
+10733,Patient_733,84.0,Male,General Medicine,72398.0,Critical,14
+10734,Patient_734,49.0,Male,Pediatrics,35686.0,Recovered,7
+10735,Patient_735,21.0,Female,Neurology,102926.0,Under Treatment,17
+10736,Patient_736,74.0,Male,General Medicine,74305.0,Deceased,12
+10737,Patient_737,64.0,Male,General Medicine,69918.0,Recovered,20
+10738,Patient_738,5.0,Male,Neurology,67409.0,Under Treatment,4
+10739,Patient_739,70.0,Male,Neurology,90951.0,Under Treatment,9
+10740,Patient_740,90.0,Male,General Medicine,43202.0,Deceased,6
+10741,Patient_741,4.0,Male,Neurology,102625.0,Deceased,16
+10742,Patient_742,39.0,Female,General Medicine,30889.0,Under Treatment,2
+10743,Patient_743,35.0,Female,General Medicine,68854.0,Recovered,8
+10744,Patient_744,1.0,Male,Pediatrics,47061.0,Under Treatment,11
+10745,Patient_745,24.0,Female,Cardiology,101832.0,Recovered,13
+10746,Patient_746,57.0,Female,General Medicine,88880.0,Under Treatment,17
+10747,Patient_747,70.0,Male,Orthopedics,84729.0,Critical,8
+10748,Patient_748,41.0,Male,Oncology,139055.0,Recovered,18
+10749,Patient_749,54.0,Male,Cardiology,97478.0,Recovered,18
+10750,Patient_750,46.0,Female,Cardiology,110113.0,Recovered,14
+10751,Patient_751,60.0,Male,Cardiology,105246.0,Recovered,15
+10752,Patient_752,,Female,Pediatrics,42500.0,Recovered,6
+10753,Patient_753,57.0,Male,General Medicine,54528.0,Under Treatment,11
+10754,Patient_754,31.0,Female,Pediatrics,52293.0,Critical,13
+10755,Patient_755,84.0,Male,General Medicine,33999.0,Critical,1
+10756,Patient_756,24.0,Male,Pediatrics,38018.0,Recovered,6
+10757,Patient_757,89.0,Female,Pediatrics,67776.0,Critical,9
+10758,Patient_758,36.0,Female,Oncology,120309.0,Under Treatment,8
+10759,Patient_759,85.0,Female,Orthopedics,96623.0,Recovered,11
+10760,Patient_760,30.0,Female,Pediatrics,75638.0,Recovered,19
+10761,Patient_761,24.0,Female,Oncology,121046.0,Recovered,9
+10762,Patient_762,30.0,Female,Neurology,133124.0,Critical,17
+10763,Patient_763,86.0,Male,Orthopedics,75136.0,Recovered,12
+10764,Patient_764,7.0,Female,Pediatrics,69986.0,Under Treatment,14
+10765,Patient_765,35.0,Male,Cardiology,105685.0,Recovered,15
+10766,Patient_766,55.0,Male,Neurology,105614.0,Under Treatment,16
+10767,Patient_767,14.0,Female,Neurology,127246.0,Recovered,20
+10768,Patient_768,10.0,Male,Oncology,96817.0,Recovered,1
+10769,Patient_769,80.0,Female,Neurology,78261.0,Recovered,10
+10770,Patient_770,16.0,Female,Orthopedics,70551.0,Recovered,8
+10771,Patient_771,54.0,Male,Pediatrics,70372.0,Under Treatment,18
+10772,Patient_772,89.0,Male,Pediatrics,18826.0,Recovered,1
+10773,Patient_773,77.0,Female,Cardiology,72694.0,Under Treatment,2
+10774,Patient_774,70.0,Female,Oncology,84508.0,Recovered,1
+10775,Patient_775,44.0,Male,Cardiology,69475.0,Recovered,1
+10776,Patient_776,73.0,Male,Neurology,82440.0,Recovered,9
+10777,Patient_777,45.0,Male,Cardiology,108251.0,Recovered,13
+10778,Patient_778,56.0,Male,Orthopedics,56816.0,Critical,1
+10779,Patient_779,84.0,Female,Pediatrics,62108.0,Recovered,13
+10780,Patient_780,82.0,Female,Neurology,106621.0,Under Treatment,20
+10781,Patient_781,57.0,Female,Cardiology,83094.0,Deceased,7
+10782,Patient_782,21.0,Female,Oncology,100433.0,Recovered,2
+10783,Patient_783,68.0,Male,Orthopedics,61059.0,Recovered,6
+10784,Patient_784,50.0,Male,Orthopedics,77915.0,Under Treatment,7
+10785,Patient_785,33.0,Female,Cardiology,100144.0,Deceased,14
+10786,Patient_786,7.0,Female,Pediatrics,47229.0,Critical,18
+10787,Patient_787,70.0,Female,Cardiology,125810.0,Recovered,15
+10788,Patient_788,15.0,Female,Neurology,72410.0,Under Treatment,2
+10789,Patient_789,82.0,Female,Cardiology,95855.0,Recovered,10
+10790,Patient_790,32.0,Female,Orthopedics,68448.0,Deceased,12
+10791,Patient_791,75.0,Female,Cardiology,119068.0,Deceased,17
+10792,Patient_792,20.0,Female,Pediatrics,52322.0,Recovered,8
+10793,Patient_793,88.0,Female,Oncology,117397.0,Recovered,11
+10794,Patient_794,15.0,Male,General Medicine,42411.0,Recovered,3
+10795,Patient_795,48.0,Female,Cardiology,80623.0,Recovered,6
+10796,Patient_796,71.0,Male,Pediatrics,63555.0,Under Treatment,9
+10797,Patient_797,21.0,Male,Pediatrics,34750.0,Recovered,6
+10798,Patient_798,42.0,Female,Oncology,120122.0,Recovered,9
+10799,Patient_799,26.0,Female,Orthopedics,71336.0,Recovered,7
+10800,Patient_800,14.0,Male,Pediatrics,39127.0,Deceased,9
+10801,Patient_801,57.0,Male,Pediatrics,48417.0,Recovered,18
+10802,Patient_802,37.0,Female,Pediatrics,56520.0,Recovered,12
+10803,Patient_803,58.0,Male,Pediatrics,51753.0,Recovered,8
+10804,Patient_804,21.0,Female,Neurology,86876.0,Deceased,8
+10805,Patient_805,82.0,Female,Neurology,116254.0,Under Treatment,18
+10806,Patient_806,69.0,Female,Orthopedics,90330.0,Recovered,20
+10807,Patient_807,3.0,Male,Cardiology,112133.0,Recovered,15
+10808,Patient_808,87.0,Male,Pediatrics,32911.0,Recovered,7
+10809,Patient_809,90.0,Female,Oncology,111164.0,Recovered,11
+10810,Patient_810,37.0,Male,Cardiology,136493.0,Recovered,20
+10811,Patient_811,88.0,Male,Oncology,121249.0,Critical,16
+10812,Patient_812,49.0,Male,Cardiology,70867.0,Recovered,4
+10813,Patient_813,19.0,Male,Orthopedics,71122.0,Under Treatment,6
+10814,Patient_814,89.0,Male,Pediatrics,35203.0,Recovered,3
+10815,Patient_815,85.0,Male,Pediatrics,54254.0,Under Treatment,9
+10816,Patient_816,12.0,Male,General Medicine,60261.0,Under Treatment,10
+10817,Patient_817,61.0,Female,Oncology,111605.0,Recovered,14
+10818,Patient_818,41.0,Male,Cardiology,94966.0,Recovered,11
+10819,Patient_819,33.0,Male,Cardiology,628945.0,Recovered,18
+10820,Patient_820,50.0,Male,Neurology,108838.0,Recovered,12
+10821,Patient_821,68.0,Male,General Medicine,76195.0,Recovered,12
+10822,Patient_822,71.0,Male,Neurology,110611.0,Recovered,13
+10823,Patient_823,86.0,Male,Neurology,87652.0,Deceased,13
+10824,Patient_824,33.0,Male,Neurology,140033.0,Recovered,19
+10825,Patient_825,81.0,Male,Oncology,132006.0,Under Treatment,19
+10826,Patient_826,24.0,Female,Oncology,133342.0,Recovered,14
+10827,Patient_827,61.0,Male,Orthopedics,62386.0,Under Treatment,4
+10828,Patient_828,61.0,Male,Orthopedics,92541.0,Recovered,13
+10829,Patient_829,28.0,Male,Neurology,90041.0,Critical,8
+10830,Patient_830,58.0,Male,General Medicine,83408.0,Recovered,19
+10831,Patient_831,43.0,Female,Cardiology,112924.0,Recovered,12
+10832,Patient_832,41.0,Female,Oncology,131278.0,Recovered,18
+10833,Patient_833,39.0,Female,General Medicine,37459.0,Recovered,6
+10834,Patient_834,86.0,Female,Pediatrics,93717.0,Recovered,18
+10835,Patient_835,49.0,Female,Oncology,147072.0,Recovered,19
+10836,Patient_836,17.0,Female,Oncology,101068.0,Recovered,5
+10837,Patient_837,70.0,Female,Orthopedics,87010.0,Critical,9
+10838,Patient_838,70.0,Female,Cardiology,74303.0,Recovered,3
+10839,Patient_839,65.0,Female,Cardiology,89750.0,Recovered,10
+10840,Patient_840,74.0,Female,Pediatrics,89846.0,Under Treatment,19
+10841,Patient_841,85.0,Female,Pediatrics,41940.0,Recovered,3
+10842,Patient_842,5.0,Female,Oncology,136137.0,Recovered,15
+10843,Patient_843,2.0,Female,Neurology,64459.0,Recovered,1
+10844,Patient_844,22.0,Female,Orthopedics,67232.0,Deceased,7
+10845,Patient_845,57.0,Female,Orthopedics,398964.0,Critical,12
+10846,Patient_846,66.0,Female,Oncology,142099.0,Critical,17
+10847,Patient_847,74.0,Male,General Medicine,83390.0,Recovered,20
+10848,Patient_848,16.0,Female,Neurology,91344.0,Under Treatment,5
+10849,Patient_849,51.0,Male,Oncology,102750.0,Recovered,4
+10850,Patient_850,39.0,Female,Neurology,94710.0,Recovered,12
+10851,Patient_851,86.0,Female,Neurology,137589.0,Recovered,20
+10852,Patient_852,76.0,Male,Neurology,112999.0,Recovered,18
+10853,Patient_853,88.0,Female,Oncology,154716.0,Recovered,17
+10854,Patient_854,40.0,Male,Orthopedics,567804.0,Recovered,19
+10855,Patient_855,38.0,Male,Orthopedics,57784.0,Recovered,9
+10856,Patient_856,60.0,Male,Neurology,78264.0,Recovered,4
+10857,Patient_857,59.0,Female,General Medicine,26414.0,Under Treatment,2
+10858,Patient_858,10.0,Female,Cardiology,75333.0,Recovered,4
+10859,Patient_859,64.0,Female,Oncology,105353.0,Under Treatment,2
+10860,Patient_860,63.0,Male,Cardiology,104101.0,Recovered,15
+10861,Patient_861,49.0,Male,General Medicine,33769.0,Under Treatment,2
+10862,Patient_862,64.0,Female,Oncology,103852.0,Recovered,4
+10863,Patient_863,32.0,Female,Neurology,86897.0,Recovered,6
+10864,Patient_864,7.0,Female,Orthopedics,72874.0,Recovered,7
+10865,Patient_865,21.0,Female,Cardiology,82079.0,Recovered,10
+10866,Patient_866,20.0,Female,Pediatrics,83215.0,Under Treatment,19
+10867,Patient_867,26.0,Male,Pediatrics,58367.0,Recovered,19
+10868,Patient_868,68.0,Male,General Medicine,75654.0,Recovered,12
+10869,Patient_869,86.0,Male,Neurology,73924.0,Critical,3
+10870,Patient_870,15.0,Female,Cardiology,96197.0,Under Treatment,13
+10871,Patient_871,85.0,Male,Neurology,139254.0,Recovered,18
+10872,Patient_872,79.0,Male,Cardiology,88285.0,Recovered,8
+10873,Patient_873,86.0,Male,General Medicine,74861.0,Recovered,15
+10874,Patient_874,14.0,Male,General Medicine,27420.0,Recovered,1
+10875,Patient_875,27.0,Male,Pediatrics,32718.0,Recovered,3
+10876,Patient_876,40.0,Female,Neurology,97547.0,Deceased,8
+10877,Patient_877,58.0,Male,Oncology,105890.0,Recovered,4
+10878,Patient_878,28.0,Female,Pediatrics,63840.0,Recovered,16
+10879,Patient_879,26.0,Female,Neurology,93887.0,Recovered,10
+10880,Patient_880,63.0,Female,Pediatrics,69478.0,Critical,12
+10881,Patient_881,66.0,Female,Oncology,118312.0,Under Treatment,14
+10882,Patient_882,25.0,Female,Orthopedics,72323.0,Recovered,14
+10883,Patient_883,3.0,Male,Orthopedics,55828.0,Under Treatment,2
+10884,Patient_884,72.0,Male,Orthopedics,61971.0,Recovered,5
+10885,Patient_885,44.0,Female,Orthopedics,70567.0,Recovered,5
+10886,Patient_886,42.0,Female,Cardiology,92306.0,Recovered,6
+10887,Patient_887,6.0,Female,Orthopedics,104254.0,Recovered,13
+10888,Patient_888,39.0,Male,Oncology,125793.0,Recovered,9
+10889,Patient_889,52.0,Female,General Medicine,72823.0,Critical,15
+10890,Patient_890,23.0,Male,General Medicine,49379.0,Recovered,14
+10891,Patient_891,89.0,Female,Cardiology,84458.0,Deceased,7
+10892,Patient_892,50.0,Male,Orthopedics,94419.0,Recovered,20
+10893,Patient_893,43.0,Female,Orthopedics,49081.0,Recovered,2
+10894,Patient_894,19.0,Male,Orthopedics,68752.0,Recovered,7
+10895,Patient_895,69.0,Female,Pediatrics,30452.0,Recovered,6
+10896,Patient_896,51.0,Male,Neurology,121296.0,Recovered,17
+10897,Patient_897,11.0,Male,Pediatrics,36575.0,Recovered,2
+10898,Patient_898,12.0,Male,Neurology,75265.0,Recovered,3
+10899,Patient_899,74.0,Male,Orthopedics,52430.0,Recovered,5
+10900,Patient_900,8.0,Male,Orthopedics,69520.0,Under Treatment,5
+10901,Patient_901,24.0,Male,Pediatrics,33728.0,Recovered,1
+10902,Patient_902,41.0,Male,Pediatrics,39326.0,Recovered,8
+10903,Patient_903,36.0,Female,Neurology,116072.0,Recovered,12
+10904,Patient_904,85.0,Female,General Medicine,33947.0,Critical,4
+10905,Patient_905,72.0,Female,Neurology,116509.0,Under Treatment,13
+10906,Patient_906,55.0,Female,Pediatrics,61266.0,Recovered,15
+10907,Patient_907,9.0,Female,Oncology,110931.0,Recovered,11
+10908,Patient_908,47.0,Male,Pediatrics,53658.0,Recovered,10
+10909,Patient_909,15.0,Male,Oncology,103946.0,Deceased,3
+10910,Patient_910,48.0,Male,Cardiology,107989.0,Under Treatment,14
+10911,Patient_911,,Male,Pediatrics,66282.0,Recovered,16
+10912,Patient_912,42.0,Male,Cardiology,107870.0,Recovered,10
+10913,Patient_913,60.0,Female,General Medicine,42248.0,Recovered,10
+10914,Patient_914,84.0,Female,Neurology,93953.0,Deceased,12
+10915,Patient_915,70.0,Female,Oncology,95639.0,Recovered,9
+10916,Patient_916,12.0,Female,Neurology,65629.0,Recovered,1
+10917,Patient_917,2.0,Male,Cardiology,87913.0,Recovered,5
+10918,Patient_918,7.0,Male,Oncology,149554.0,Under Treatment,20
+10919,Patient_919,80.0,Male,Neurology,108100.0,Under Treatment,8
+10920,Patient_920,3.0,Female,Pediatrics,37669.0,Under Treatment,11
+10921,Patient_921,3.0,Male,Orthopedics,92507.0,Recovered,12
+10922,Patient_922,27.0,Female,Cardiology,64696.0,Critical,1
+10923,Patient_923,40.0,Male,Neurology,102244.0,Recovered,20
+10924,Patient_924,33.0,Male,Cardiology,99083.0,Recovered,11
+10925,Patient_925,1.0,Female,Cardiology,85928.0,Recovered,5
+10926,Patient_926,8.0,Male,Oncology,152527.0,Deceased,15
+10927,Patient_927,32.0,Male,Oncology,107810.0,Recovered,5
+10928,Patient_928,48.0,Female,Orthopedics,93883.0,Under Treatment,12
+10929,Patient_929,4.0,Male,Pediatrics,38967.0,Under Treatment,5
+10930,Patient_930,70.0,Female,Cardiology,86489.0,Recovered,17
+10931,Patient_931,19.0,Male,Neurology,101143.0,Recovered,17
+10932,Patient_932,32.0,Male,General Medicine,87027.0,Recovered,12
+10933,Patient_933,9.0,Male,Cardiology,107688.0,Recovered,15
+10934,Patient_934,12.0,Male,Cardiology,101439.0,Recovered,15
+10935,Patient_935,11.0,Male,Orthopedics,82102.0,Recovered,6
+10936,Patient_936,46.0,Male,Pediatrics,61662.0,Critical,12
+10937,Patient_937,16.0,Male,General Medicine,78250.0,Deceased,20
+10938,Patient_938,1.0,Male,Oncology,152811.0,Recovered,18
+10939,Patient_939,63.0,Female,Oncology,116081.0,Recovered,14
+10940,Patient_940,21.0,Female,Neurology,78162.0,Recovered,2
+10941,Patient_941,30.0,Male,General Medicine,50383.0,Under Treatment,9
+10942,Patient_942,13.0,Male,Oncology,106390.0,Under Treatment,5
+10943,Patient_943,34.0,Female,Neurology,137670.0,Recovered,20
+10944,Patient_944,4.0,Male,Pediatrics,17137.0,Recovered,1
+10945,Patient_945,28.0,Male,Neurology,76878.0,Under Treatment,3
+10946,Patient_946,59.0,Female,Oncology,108497.0,Recovered,6
+10947,Patient_947,27.0,Male,Orthopedics,65071.0,Recovered,5
+10948,Patient_948,69.0,Male,Orthopedics,56359.0,Recovered,5
+10949,Patient_949,25.0,Female,Orthopedics,60515.0,Recovered,1
+10950,Patient_950,3.0,Male,Oncology,136256.0,Recovered,17
+10951,Patient_951,68.0,Male,Orthopedics,79357.0,Under Treatment,19
+10952,Patient_952,25.0,Female,General Medicine,87271.0,Under Treatment,14
+10953,Patient_953,20.0,Male,Pediatrics,45398.0,Recovered,12
+10954,Patient_954,34.0,Female,Neurology,104372.0,Critical,10
+10955,Patient_955,26.0,Male,Neurology,111245.0,Recovered,20
+10956,Patient_956,5.0,Male,Oncology,147610.0,Under Treatment,18
+10957,Patient_957,61.0,Female,Orthopedics,92718.0,Recovered,11
+10958,Patient_958,9.0,Female,Orthopedics,49125.0,Critical,2
+10959,Patient_959,50.0,Male,Cardiology,107829.0,Critical,18
+10960,Patient_960,6.0,Female,Pediatrics,42938.0,Recovered,7
+10961,Patient_961,83.0,Female,General Medicine,81833.0,Critical,15
+10962,Patient_962,60.0,Male,Neurology,85539.0,Under Treatment,11
+10963,Patient_963,44.0,Male,Cardiology,113099.0,Under Treatment,18
+10964,Patient_964,11.0,Male,Cardiology,95622.0,Recovered,12
+10965,Patient_965,66.0,Female,Oncology,107053.0,Under Treatment,6
+10966,Patient_966,47.0,Female,Neurology,123613.0,Critical,20
+10967,Patient_967,73.0,Female,Oncology,121618.0,Recovered,13
+10968,Patient_968,85.0,Female,General Medicine,66210.0,Deceased,20
+10969,Patient_969,88.0,Male,Cardiology,118814.0,Recovered,16
+10970,Patient_970,86.0,Female,Cardiology,133272.0,Recovered,18
+10971,Patient_971,3.0,Male,Pediatrics,51138.0,Recovered,10
+10972,Patient_972,76.0,Female,General Medicine,47788.0,Recovered,8
+10973,Patient_973,30.0,Male,Cardiology,108445.0,Recovered,18
+10974,Patient_974,90.0,Male,General Medicine,24732.0,Recovered,1
+10975,Patient_975,21.0,Male,Neurology,101452.0,Deceased,8
+10976,Patient_976,28.0,Female,Orthopedics,196161.0,Recovered,6
+10977,Patient_977,90.0,Male,Cardiology,87222.0,Recovered,5
+10978,Patient_978,62.0,Male,Pediatrics,52583.0,Recovered,15
+10979,Patient_979,33.0,Female,Neurology,111102.0,Recovered,15
+10980,Patient_980,85.0,Male,General Medicine,39980.0,Critical,2
+10981,Patient_981,35.0,Female,Oncology,88122.0,Under Treatment,1
+10982,Patient_982,52.0,Female,Neurology,98851.0,Under Treatment,11
+10983,Patient_983,34.0,Male,Cardiology,107647.0,Recovered,10
+10984,Patient_984,41.0,Male,General Medicine,74536.0,Recovered,18
+10985,Patient_985,51.0,Female,Orthopedics,105414.0,Recovered,18
+10986,Patient_986,47.0,Male,Neurology,128156.0,Recovered,17
+10987,Patient_987,82.0,Female,Cardiology,76939.0,Recovered,8
+10988,Patient_988,58.0,Female,Pediatrics,70658.0,Under Treatment,15
+10989,Patient_989,75.0,Female,Oncology,112586.0,Recovered,8
+10990,Patient_990,57.0,Male,General Medicine,98559.0,Under Treatment,17
+10991,Patient_991,23.0,Female,Neurology,86673.0,Recovered,12
+10992,Patient_992,48.0,Male,Neurology,89778.0,Recovered,8
+10993,Patient_993,22.0,Male,Orthopedics,94785.0,Recovered,14
+10994,Patient_994,17.0,Male,Orthopedics,61625.0,Recovered,4
+10995,Patient_995,69.0,Male,Pediatrics,33776.0,Critical,1
+10996,Patient_996,11.0,Female,Oncology,83670.0,Recovered,1
+10997,Patient_997,15.0,Male,Pediatrics,95648.0,Recovered,19
+10998,Patient_998,35.0,Female,Cardiology,134705.0,Deceased,16
+10999,Patient_999,33.0,Female,Cardiology,104980.0,Recovered,14
+11000,Patient_1000,84.0,Male,Pediatrics,63341.0,Recovered,16
+10779,Patient_779,84.0,Female,Pediatrics,62108.0,Recovered,13
+10335,Patient_335,33.0,Female,Oncology,105975.0,Recovered,7
+10272,Patient_272,72.0,Male,General Medicine,23466.0,Recovered,1
+10803,Patient_803,58.0,Male,Pediatrics,51753.0,Recovered,8
+10217,Patient_217,44.0,Male,Cardiology,105404.0,Recovered,17
